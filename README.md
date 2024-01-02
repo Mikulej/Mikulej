@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello!
+I am studying Computer Science. 
+I am interested in rendering stuff with OpenGL, game engines and reinforcement learning.
 
 <!--
 **Mikulej/Mikulej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
