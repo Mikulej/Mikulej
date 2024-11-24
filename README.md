@@ -1,6 +1,13 @@
 ### Hello!
-I am studying Computer Science. 
-I am interested in rendering stuff with OpenGL, game engines and deep learning.
+My name is Michał. I am a Computer Science graduate, pursuing my dream of becoming a software developer.
+### About What I Do/Did
+Currently, in my job I do test automation.  
+I made a few simple rendering engines with OpenGL in the past, currently - developing a small game in my free time.  
+I'm familiar with main concepts of deep learning, also made one reinforcement learning model as well for my diploma.  
+I mainly program in C++ and Python.
+### About Me
+I'm keen to build projects that seem cool or are helpful to other people.  
+I'm fond of learning new stuff and concepts.  
 
 <!--
 **Mikulej/Mikulej** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
