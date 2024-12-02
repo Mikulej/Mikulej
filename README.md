@@ -1,7 +1,7 @@
 ### Hello!
 My name is Michał. I am a Computer Science graduate, pursuing my dream of becoming a software developer.
 ### About What I Do/Did
-Currently, in my job I do test automation.  
+Currently, in my job I do test automation, DevOps and programming mobile apps on Java.  
 In the past I made a few simple rendering engines with OpenGL, nowadays - I'm developing a small game in my free time.  
 I'm familiar with main concepts of deep learning, also made one reinforcement learning model as well for my diploma.  
 I mainly program in C++ and Python.
